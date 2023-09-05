@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [http://padmavathy.pythonanywhere.com/](http://padmavathy.pythonanywhere.com/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<li><a href="padmasri1502@gmail.com">padmasri1502@gmail.com</a></li></h3>
 <p align="left">
 </p>
 
